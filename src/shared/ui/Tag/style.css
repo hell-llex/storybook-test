@@ -1,0 +1,16 @@
+.tag {
+  min-width: 86px;
+  min-height: 32px;
+  padding: 6px 10px 8px 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.tag.normal {
+  background: #F6F6F6;
+  color: #0E1829;
+  border: 1px solid #EBEBEB;
+  border-radius: 20px;
+  font-size: 14px;
+}
