@@ -3,6 +3,7 @@ import { Button } from './index.js';
 export default {
   title: 'shared/ui/Button',
   component: Button,
+  tags: ['autodocs'],
   argTypes: {
     text: { control: 'text' },
     classStyle: { control: 'array' },

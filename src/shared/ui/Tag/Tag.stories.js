@@ -3,6 +3,7 @@ import { Tag } from './index.js';
 export default {
   title: 'shared/ui/Tag',
   component: Tag,
+  tags: ['autodocs'],
   argTypes: {
     text: { control: 'text' },
     classStyle: { control: 'array' },

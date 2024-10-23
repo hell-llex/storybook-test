@@ -6,6 +6,7 @@ import './style.css';
 export default {
   title: 'Entities/ProductCard',
   component: ProductCard,
+  tags: ['autodocs'],
   argTypes: {
     stake: {
       control: 'text',
